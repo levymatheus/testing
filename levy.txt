@@ -1,4 +1,4 @@
 Nome: Matheus 
 Idade: 22 anos
 Mede: 1.72
-Peso: 61kg
+Peso: 61,00kg
